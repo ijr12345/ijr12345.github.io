@@ -50,7 +50,7 @@ li a:hover {
 .left {
     width: 35%;
     text-align: right;
-    padding-right: 200px; 
+    /*padding-right: 200px;  */
 }
   
 .right {
@@ -65,7 +65,7 @@ li a:hover {
 }
 
 h1 {
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
     font-weight: 650;
@@ -79,13 +79,13 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
     font-weight: 400;
-    /*padding-left: 240px; */
+    padding-left: 240px; 
 }
 
 p {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    padding-top: 0px;
+    padding-top: 50px;
     
 }
