@@ -98,7 +98,9 @@ span {
 .button {
     border: none;
     color: white;
-    padding: 45px 350px;
+    /*padding: 45px 350px; */
+    width: 700px;
+    height: 90px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
