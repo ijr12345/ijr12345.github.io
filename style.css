@@ -100,6 +100,18 @@ h4 {
     text-decoration: underline; 
 }
 
+a.contact:link, a.contact:visited, a.contact:hover, a.contact:active {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 50;
+    padding-left: 0px;
+    padding-bottom: 50px;
+    text-decoration: underline; 
+}
+  
+ 
+
 span {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
