@@ -152,3 +152,8 @@ span {
     background-color: grey;
     color: white;
 }
+
+.profilePic {
+    width: 200px;
+    height: 200px;
+}
